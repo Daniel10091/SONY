@@ -1,2 +1,2 @@
 # SONY
- Moovie web app in React Native
+ Media web app in React Native
